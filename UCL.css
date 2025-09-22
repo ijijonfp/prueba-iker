@@ -63,7 +63,7 @@ nav a:hover {
 .hero {
   position: relative;
   height: 100vh;
-  background: url("https://i.imgur.com/Bc4jljT.jpg") center/cover no-repeat;
+  background: url("Imagenes/fondo.jpg") center/cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -339,4 +339,5 @@ nav a:hover {
   color: var(--muted);
   font-size: 14px;
 }
+
 
